@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scoreboard</string>
+
+    <string name="action_clear_scores">Clear Scorecard</string>
+</resources>
